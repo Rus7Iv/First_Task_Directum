@@ -1,0 +1,15 @@
+C:\Users\ivano\Desktop\First_Task\First_Task\bin\Debug\net6.0\First_Task.exe
+C:\Users\ivano\Desktop\First_Task\First_Task\bin\Debug\net6.0\First_Task.deps.json
+C:\Users\ivano\Desktop\First_Task\First_Task\bin\Debug\net6.0\First_Task.runtimeconfig.json
+C:\Users\ivano\Desktop\First_Task\First_Task\bin\Debug\net6.0\First_Task.dll
+C:\Users\ivano\Desktop\First_Task\First_Task\bin\Debug\net6.0\ref\First_Task.dll
+C:\Users\ivano\Desktop\First_Task\First_Task\bin\Debug\net6.0\First_Task.pdb
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.csproj.AssemblyReference.cache
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.AssemblyInfoInputs.cache
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.AssemblyInfo.cs
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.dll
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\ref\First_Task.dll
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.pdb
+C:\Users\ivano\Desktop\First_Task\First_Task\obj\Debug\net6.0\First_Task.genruntimeconfig.cache
